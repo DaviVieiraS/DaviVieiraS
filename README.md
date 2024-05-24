@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ... 
 -->
 
-<img width=100% bottom=50px src="[https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b](https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/ad49393f-5573-40b3-9120-1ef0bba38916)"/>
+<img width=100% bottom=50px src=""/>
 
 https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/ad49393f-5573-40b3-9120-1ef0bba38916
 
