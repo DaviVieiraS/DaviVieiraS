@@ -1,13 +1,3 @@
-- 🔭 I’m currently working on ... Rinobot
-- 🌱 I’m currently learning ... Engenharia elétrica
-- 👯 I’m looking to collaborate on ... -
-- 🤔 I’m looking for help with ... -
-- 💬 Ask me about ... -
-- 📫 How to reach me: ... email
-- 😄 Pronouns: ... ele/dele
-- ⚡ Fun fact: ... 
--->
-
 <img width=100% bottom=50px src="https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/63207d8f-740d-4eb7-b418-7a50a167c7a1"/>
 
 https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/ad49393f-5573-40b3-9120-1ef0bba38916
@@ -86,3 +76,13 @@ https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/ad49393f-5573-40b3-9
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </div>
+
+- 🔭 I’m currently working on ... Rinobot
+- 🌱 I’m currently learning ... Engenharia elétrica
+- 👯 I’m looking to collaborate on ... -
+- 🤔 I’m looking for help with ... -
+- 💬 Ask me about ... -
+- 📫 How to reach me: ... email
+- 😄 Pronouns: ... ele/dele
+- ⚡ Fun fact: ... 
+-->
