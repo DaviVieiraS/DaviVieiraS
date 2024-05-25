@@ -1,7 +1,5 @@
 <img width=100% bottom=50px src="https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/63207d8f-740d-4eb7-b418-7a50a167c7a1"/>
 
-https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/ad49393f-5573-40b3-9120-1ef0bba38916
-
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
