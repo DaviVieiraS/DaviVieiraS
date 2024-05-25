@@ -1,14 +1,8 @@
 <img width=100% bottom=50px src="https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/63207d8f-740d-4eb7-b418-7a50a167c7a1"/>
 <br>
 <br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=80&duration=4000&pause=500&color=4293BD&center=true&vCenter=true&random=false&width=1500&height=100&lines=Hey!+My+name+is+Davi;I'm+21+yers+old;I+do+electrical+engineering;I'm+from+Brazil;Feel+welcome!)](https://git.io/typing-svg)
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá! Aqui só tem o Davi</h1></summary>
-</div>
 
 <!-- Presentation -->
 <p>
