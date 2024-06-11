@@ -1,29 +1,36 @@
 <img width=100% bottom=50px src="https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/63207d8f-740d-4eb7-b418-7a50a167c7a1"/>
+
 <br>
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=80&duration=4000&pause=500&color=4293BD&center=true&vCenter=true&random=false&width=1500&height=100&lines=Hey!+My+name+is+Davi;I'm+21+yers+old;I+do+electrical+engineering;I'm+from+Brazil;Feel+welcome!)](https://git.io/typing-svg)
 
 <!-- Presentation -->
 <p align="center">
+ 
  <br>
-  🤖⚙️⚡👨‍💻⚡⚙️🤖
+  
+ 🤖⚙️⚡👨‍💻⚡⚙️🤖
+ 
  <br>
+ 
  I'm Davi! A Eletrical Engeneering student from Brazil, performing robotics and industrial automation at UFJF (Juiz de Fora Federal University).
-
+ 
+ <br>
 </p>
 
 <!-- Dropdown -->
-<br>
 
 <details>
   
-  <summary>👨‍💻 More about me</summary>
+  <summary>🚀 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
- 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - 💬 I am 21 years old, currently living in Juiz de Fora, Minas Gerais. I have fluency in English and have experience with Altium, Eletronics, Autocad, Solid Works, and C++. I'm also a assembly coordinator of VSSS (Very Small Size Soccer), 
+which is a category of the Rinobot robotics team.
+  - ⚡ I enjoy writting, mainly poetry! But in my free time I go to the gym to train, for me the body should be a reflection of the mind! 🦾
 </details>
+
 <br>
 
 <!-- Links -->
