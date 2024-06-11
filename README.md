@@ -5,19 +5,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=80&duration=4000&pause=500&color=4293BD&center=true&vCenter=true&random=false&width=1500&height=100&lines=Hey!+My+name+is+Davi;I'm+21+yers+old;I+do+electrical+engineering;I'm+from+Brazil;Feel+welcome!)](https://git.io/typing-svg)
 
 <!-- Presentation -->
-<p>
-  I'm Davi! A Eletrical Engeneering student from Brazil, performing robotics and industrial automation at UFJF (Juiz de Fora Federal University).
+<p align="center">
+ <br>
+  🤖⚙️⚡👨‍💻⚡⚙️🤖
+ <br>
+ I'm Davi! A Eletrical Engeneering student from Brazil, performing robotics and industrial automation at UFJF (Juiz de Fora Federal University).
 
 </p>
 
 <!-- Dropdown -->
+<br>
+
 <details>
+  
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
+ 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
+<br>
 
 <!-- Links -->
 
