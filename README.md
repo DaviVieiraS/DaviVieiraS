@@ -35,7 +35,7 @@ which is a category of the Rinobot robotics team.
 
 <!-- Links -->
 
-[![Instagram](https://img.shields.io/badge/Lattes-CNPQ_-blue)](http://lattes.cnpq.br/9370308186261727)
+[![Instagram](![Signal](https://img.shields.io/badge/Lattes-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white))](http://lattes.cnpq.br/9370308186261727)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_vieir.a/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-vieira-888005155/)
 
