@@ -48,7 +48,7 @@ which is a category of the Rinobot robotics team.
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/DaviVieiraS/DaviVieiraS/assets/120072295/4997172f-f9a7-41d6-bedc-28e6f323b1be" alt="Imagem">
 </p>
 
 ## 🔥 Skills
