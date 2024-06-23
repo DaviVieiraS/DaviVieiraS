@@ -44,7 +44,7 @@ which is a category of the Rinobot robotics team.
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVieira&show_icons=true&theme=dark)
 
 <!-- GIF -->
 <p align="left">
